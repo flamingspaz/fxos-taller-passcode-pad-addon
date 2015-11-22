@@ -1,7 +1,7 @@
 {
     "manifest_version": 1,
     "name": "Taller Passcode Pad",
-    "description": "Makes the passcode pad taller for easier entry",
+    "description": "Makes the passcode pad taller for easier entry. Code: https://github.com/flamingspaz/fxos-taller-passcode-pad-addon",
     "version": "0.1",
     "author": "Yousef Alam",
     "content_scripts": [{
