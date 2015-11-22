@@ -1,0 +1,9 @@
+{
+  "name" : "Taller Passcode Pad",
+  "description": "Makes the passcode pad taller for easier entry",
+  "developer": { "name": "Yousef Alam" },
+  "package_path": "extension.zip",
+  "icons": {
+    "128": "/icons/128.png"
+  }
+}

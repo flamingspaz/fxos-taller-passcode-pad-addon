@@ -1,0 +1,15 @@
+{
+    "manifest_version": 1,
+    "name": "Taller Passcode Pad",
+    "description": "Makes the passcode pad taller for easier entry",
+    "version": "0.1",
+    "author": "Yousef Alam",
+    "content_scripts": [{
+      "matches": ["app://system.gaiamobile.org/index.html"],
+      "css": [],
+      "js": ["js/index.js"]
+    }],
+    "icons": {
+      "128": "/icons/128.png"
+    }
+}
